@@ -1,6 +1,6 @@
 humanvaloper126tn50nl9fpxka4ndu3507m5nt9lwpvgpz8rzu
 
-##Restart 1
+## Restart 1
 ```
 3:14PM ERR Error serving server err="accept tcp [::]:16657: use of closed network connection" server=node
 humansd.service: Succeeded.
@@ -183,7 +183,7 @@ Started Humans node.
 3:14PM INF Replay: Vote blockID={"hash":"BD283C8927AA74273D02AAF4231729F1E2FD91E125C63B0E2F733279B63BB376","parts":{"hash":"F4A2A8CA8300BE5280A7AC2FE38769CD524C7DB6E5364A83EBB567F2438CAD89","total":1}} height=100632 module=consensus peer=fa9eb901a01430d928e71162151992c7afb51d62 round=0 server=node type=2
 ```
 
-##Restart 2
+## Restart 2
 ```
 3:35PM INF Reconnecting to peer addr={"id":"1a60894ec05fa5a92de5aef237dc3ed729912788","ip":"65.108.71.140","port":26656} module=p2p server=node
 Stopping Humans node...
@@ -349,7 +349,8 @@ Started Humans node.
 3:35PM INF Replay: Vote blockID={"hash":"05EB34533F499929750655671DCE3AC22CAEBB8CEF4125DECCABDE76F7B96163","parts":{"hash":"B4C9A1CE184F67C49CC03B68A95C7471AAFE5F3A2B5F3922C2F2ABBFD937F1DF","total":1}} height=100836 module=consensus peer=ee8a0664518c5ef5078ad2251275d5689fcf96fb round=0 server=node type=2
 3:35PM INF Replay: Vote blockID={"hash":"05EB34533F499929750655671DCE3AC22CAEBB8CEF4125DECCABDE76F7B96163","parts":{"hash":"B4C9A1CE184F67C49CC03B68A95C7471AAFE5F3A2B5F3922C2F2ABBFD937F1DF","total":1}} height=100836 module=consensus peer=459bcaea161d20cddcdead811d282bd495446cbb round=0 server=node type=2
 ```
-Restart 3
+
+## Restart 3
 ```
 4:15PM ERR Error serving server err="accept tcp [::]:16657: use of closed network connection" server=node
 humansd.service: Succeeded.
